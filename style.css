@@ -18,7 +18,7 @@ body {
   text-decoration: none;
 }
 .name > a:link {
-  color: color;
+  color: black;
 }
 .name > a:visited {
   color: black;
